@@ -136,7 +136,7 @@
 	(property "u" "µ")
 	(net 0 "")
 	(image
-		(at 203.6 134.6)
+		(at 114 112.6)
 		(layer "F.Cu")
 		(data "iVBORw0KGgoAAAANSUhEUgAABrcAAAOcCAYAAADkWOq0AAAABHNCSVQICAgIfAhkiAAAIABJREFU"
 			"eJzs3WFsXOd5J/rnDGcoiaLIWKIpkbKV3VUspLAiR468WefetrAWzm0Vr727vYiFe+MYqHGLGLWN"
