@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 25,
     "active_layer_preset": "NO_Fab_NO_Courtyard_Foot_Text",
     "auto_track_width": false,
     "hidden_netclasses": [],
