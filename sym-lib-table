@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "mine")(type "HTTP")(uri "/media/ajinkya/DATA/RELEASE/kicad_http/kicad_http.kicad_httplib")(options "")(descr ""))
 )
